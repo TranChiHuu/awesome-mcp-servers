@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 781 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 782 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Repository, license, pricing, transport, auth, install, and verified date are included only when the catalog has them. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -4269,6 +4269,22 @@ Search messages, browse chats and read archived Telegram history from a self-hos
 - Official: yes
 - Tags: telegram, chat, archives, self-hosted
 - Category: Communication and Productivity
+
+### Telofy
+
+Remote MCP server for Telofy, the AI phone receptionist for small businesses in Germany: lets agents read calls, captured leads and tickets, and booked appointments.
+
+- URL: https://telofy.de
+- Language: TypeScript
+- Provider: Telofy
+- Official: yes
+- Tags: phone, voice-ai, appointments, calls, remote
+- Category: Communication and Productivity
+- Repository: https://github.com/RuJerome/telofy-mcp
+- License: MIT
+- Transport: streamable-http
+- Auth: oauth, api-key
+- Streamable HTTP endpoint: https://api.telofy.app/mcp
 
 ### TextKit
 

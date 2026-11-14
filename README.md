@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-781-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-782-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -47,7 +47,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (74)
 - [Filesystems and Documents](#filesystems-and-documents) (31)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (34)
-- [Communication and Productivity](#communication-and-productivity) (95)
+- [Communication and Productivity](#communication-and-productivity) (96)
 - [AI, Agents, and Memory](#ai-agents-and-memory) (93)
 - [Data, Analytics, and BI](#data-analytics-and-bi) (88)
 - [Legal and Court Data](#legal-and-court-data) (10)
@@ -766,6 +766,8 @@ Integrate chat, email, calendars, and team collaboration tools.
   `project-management` `tasks` `agents` `remote`
 - **[Telegram Archive MCP Server](https://github.com/GeiserX/telegram-archive-mcp)** `Official` `Go` — Search messages, browse chats and read archived Telegram history from a self-hosted Telegram-Archive instance.  
   `telegram` `chat` `archives` `self-hosted`
+- **[Telofy](https://telofy.de)** `Official` `TypeScript` — Remote MCP server for Telofy, the AI phone receptionist for small businesses in Germany: lets agents read calls, captured leads and tickets, and booked appointments. ([source](https://github.com/RuJerome/telofy-mcp))  
+  `phone` `voice-ai` `appointments` `calls` `remote`
 - **[TextKit](https://jointextkit.com/docs/mcp)** `Official` `TypeScript` — Hosted MCP server to send and receive SMS, verify phone numbers, buy US and Canada numbers, and manage contacts, segments, broadcasts and automations.  
   `sms` `phone-verification` `messaging` `remote`
 - **[There There](https://there-there.app/docs/integrations/mcp-server)** `Official` `PHP` — Read, search and triage There There helpdesk tickets, save private reply drafts, send replies and manage knowledge base articles, limited to the abilities granted over OAuth.  
